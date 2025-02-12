@@ -64,11 +64,10 @@ It's an all-in-one, AI-enhanced notepad that simplifies your work by combining *
 
 ## 📸 **Sneak Peek (Screenshots)**  
 
-### 1. **Main Interface**  
-![Smart Notepad Main Interface](Screenshot (198).png)  
-
+### 1. **Main Interface**     
+![Smart Notepad Main Interface](Screenshot%20(198).png)  
 ### 2. **Exit Message**  
-![Exit Message](Screenshot (199).png)  
+![Exit Message](Screenshot%20(199).png)  
 
 > *(Screenshots showcase the intuitive design, speech control, and themes.)*  
 
